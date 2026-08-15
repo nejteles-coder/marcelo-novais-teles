@@ -161,7 +161,8 @@ const films = [
       { label: 'Montage', value: 'Marcelo Novais Teles, Aurore Moureu' },
       { label: 'Mixage', value: 'Rémi Stengel' },
       { label: 'Musique', value: 'Caetano Veloso' }
-    ]
+    ],
+    videoUrl: 'https://vimeo.com/189365075'
   },
   {
     title: 'Scène de la vie conjugale',
