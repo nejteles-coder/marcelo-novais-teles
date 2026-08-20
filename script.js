@@ -98,7 +98,8 @@ const films = [
       { label: 'Son', value: 'Hung-chun Chen' },
       { label: 'Mixage', value: 'Rémi Stengel' },
       { label: 'Musique', value: 'Rémi Stengel – Roda do Cavaco' }
-    ]
+    ],
+    videoUrl: 'https://vimeo.com/1219215820'
   },
   {
     title: 'Le Petit Prince de Belleville',
